@@ -1,0 +1,12 @@
+Things the user can change on the Edit profile page:
+- Change profile Picture
+- Change Cover photo
+- Change Full Name
+- Change Username (also, user can autogenerate username)
+- Change Phone Number
+- Change location where user play pickleball
+- Change [[Skill level]]
+- Change Date of Birth
+- Check for notifications
+- Sign Out
+- Save Changes
