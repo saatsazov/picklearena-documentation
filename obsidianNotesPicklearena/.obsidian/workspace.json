@@ -49,12 +49,14 @@
             "id": "a71c4e81a1eaf065",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Src/photo_2026-01-16_12-40-42.jpg"
+                "file": "Picklearena/League/Schedule Matches.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "photo_2026-01-16_12-40-42"
+              "icon": "lucide-file",
+              "title": "Schedule Matches"
             }
           },
           {
@@ -77,16 +79,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Picklearena/Events/Event's page.md",
+                "file": "Picklearena/Courts/Court Creation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Event's page"
+              "title": "Court Creation"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -109,7 +111,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловий менеджер"
             }
           },
           {
@@ -225,17 +227,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Відкрити провідник файлів": false,
+      "graph:Граф": false,
+      "canvas:Створити нове полотно": false,
+      "daily-notes:Сьогоднішня нотатка": false,
+      "templates:Вставити шаблон": false,
+      "command-palette:Відкрити меню команд": false,
+      "bases:Створити нову базу": false
     }
   },
-  "active": "ff93506526e76d8e",
+  "active": "5209264e2cf42cfa",
   "lastOpenFiles": [
+    "Src/photo_2026-03-06_10-51-06.jpg",
+    "Src/photo_2026-03-06_10-38-28.jpg",
+    "Picklearena/League/Schedule Matches.md",
+    "Src/photo_2026-03-06_10-38-33.jpg",
+    "Src/photo_2026-03-06_10-38-31.jpg",
+    "Src/photo_2026-01-16_12-40-42.jpg",
+    "Picklearena/Courts/Court Creation.md",
+    "Picklearena/Events/Event's page.md",
     "Picklearena/Groups/Group's page.md",
     "Picklearena/Teams/Team's page.md",
     "Picklearena/League/League's page.md",
@@ -245,9 +255,7 @@
     "Picklearena/League/League Creation.md",
     "Picklearena/Courts/Court's page.md",
     "Picklearena/Courts/Courts.md",
-    "Picklearena/Courts/Court Creation.md",
     "Picklearena/Profile/Profile Completition.md",
-    "Picklearena/Events/Event's page.md",
     "Src/photo_2026-02-17_15-57-42.jpg",
     "Picklearena/Chats.md",
     "Src/photo_2026-02-17_15-57-44.jpg",
@@ -255,8 +263,6 @@
     "Src/Pasted image 20260216112841.png",
     "Src/Pasted image 20260216112825.png",
     "Src/Pasted image 20260216112759.png",
-    "Src/photo_2026-02-09_09-16-53.jpg",
-    "Src/photo_2026-02-09_09-10-22.jpg",
     "Picklearena/Calendar.md",
     "Picklearena/Plus Button (OUTDATED).md",
     "Picklearena/Skill Level.md",
@@ -268,10 +274,6 @@
     "Picklearena/Match Details.md",
     "Picklearena/Age of opponent.md",
     "Picklearena/Teams/Teams.md",
-    "Picklearena/Profile/Profile of another user.md",
-    "Src/photo_2026-02-09_09-11-40.jpg",
-    "Picklearena/Profile/Profile creation.md",
-    "Src/photo_2026-02-09_09-04-16.jpg",
     "Picklearena/Courts",
     "Picklearena/Posts",
     "Picklearena/Teams",
