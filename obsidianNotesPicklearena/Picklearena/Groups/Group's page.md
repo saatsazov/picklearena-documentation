@@ -29,3 +29,5 @@ If the user is admin of a group they can perform the following actions after cli
 ![[photo_2026-01-14_12-00-17.jpg]]
 
 Every user by navigating to the group page and clicking the "..." button can report a group.
+
+When the admin navigates to the Group after it's creation the banner is shown that redirects to the [[Event Creation]] page.

@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Picklearena/League/Schedule Matches.md",
+                "file": "Picklearena/Groups/Group's page.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Schedule Matches"
+              "title": "Group's page"
             }
           },
           {
@@ -236,11 +236,11 @@
       "bases:Створити нову базу": false
     }
   },
-  "active": "5209264e2cf42cfa",
+  "active": "a71c4e81a1eaf065",
   "lastOpenFiles": [
+    "Picklearena/League/Schedule Matches.md",
     "Src/photo_2026-03-06_10-51-06.jpg",
     "Src/photo_2026-03-06_10-38-28.jpg",
-    "Picklearena/League/Schedule Matches.md",
     "Src/photo_2026-03-06_10-38-33.jpg",
     "Src/photo_2026-03-06_10-38-31.jpg",
     "Src/photo_2026-01-16_12-40-42.jpg",
@@ -262,7 +262,6 @@
     "Src/Pasted image 20260216112733.png",
     "Src/Pasted image 20260216112841.png",
     "Src/Pasted image 20260216112825.png",
-    "Src/Pasted image 20260216112759.png",
     "Picklearena/Calendar.md",
     "Picklearena/Plus Button (OUTDATED).md",
     "Picklearena/Skill Level.md",
